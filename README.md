@@ -39,4 +39,4 @@ Se debe correr con el siguiente comando;
 
 docker-compose up -d o docker-compose up
 
-
+![](https://github.com/JavierYungaT/pruebaSofka/blob/main/imagen/docker.png)

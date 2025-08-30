@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.devsu.MS_Cuentas_Movimientos.MsCuentasMovimientosApplica
+ tion
+
